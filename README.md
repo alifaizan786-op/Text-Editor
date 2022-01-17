@@ -1,25 +1,34 @@
 # Text-Editor
-// Getting Started
-  // Get your root package.json filled out with script commands from mini project
-  // run npm install
-  // npm run start:dev (this will error out)
+## Description
+Just another text editor, but you dont need to download 100's mb files and then run installation, just hit install and enjoy you text editor offline anywhere and anytime
 
-// Setup Webpack
-  // Bring in appropriate loaders, first error is CSS
-  // Babel loader
-  // Plugins
-    // HTML Plugin
-    // Manifest Plugin
-    // Workbox Plugin
+## Table of Contents
+- [Installation](#installation)
+- [Resources](#resources)
+- [Questions](#questions)
+---
 
-// Service Worker
-  // Implementing asset cache
+Live Link: [Text-Editor](https://murmuring-temple-63289.herokuapp.com/)
+![Demo](./demo.png)
+---
+## Table of Contents
+- [Installation](#installation)
+- [Resources](#resources)
+- [Questions](#questions)
+---
+## Installation
+- Go to https://murmuring-temple-63289.herokuapp.com/
+- Use it online or hit install and enjoy it offline
 
-// install.js
-  // will pretty much match the mini project install.js
 
-// database.js
-  // For both put/get methods
-    // Same three initial steps, open the db, make transaction with appropriate permissions, open the object store
-    // putDb refer to ex 26
-    // getDb multiples
+
+### Resources
+- https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+- https://developers.google.com/web/tools/workbox
+
+
+## Questions
+Github UN: alifaizan786-op - [alifaizan786-op](https://github.com/alifaizan786-op)
+You can contact me via email by emailing faizan.ali@irunadigital.com with your questions
+    
+    
