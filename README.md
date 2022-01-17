@@ -9,7 +9,7 @@ Just another text editor, but you dont need to download 100's mb files and then 
 ---
 
 Live Link: [Text-Editor](https://murmuring-temple-63289.herokuapp.com/)
-![Demo](./demo.png)
+![Demo](https://raw.githubusercontent.com/alifaizan786-op/Text-Editor/1bc4b715e764c1ff835ebfdecbeadfcde856409b/demo.PNG)
 ---
 ## Table of Contents
 - [Installation](#installation)
